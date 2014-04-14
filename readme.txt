@@ -1,0 +1,1 @@
+This project is an implementation of an Naive Bayes classifier to predict if a certain SMS (mobile phone Short Message Service) is spam or not. The model has been implemented using the "R" statistical programming language.The project details are explained in the accompanying PowerPoint presentation file.
